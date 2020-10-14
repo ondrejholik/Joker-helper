@@ -2,7 +2,8 @@
 
 ## What is joker?
 
-- link to wikipedia
+- [czwiki](https://cs.wikipedia.org/wiki/%C5%BDol%C3%ADky) 
+- [enwiki](https://en.wikipedia.org/wiki/Joker_(playing_card)) 
 
 ## AI
 
